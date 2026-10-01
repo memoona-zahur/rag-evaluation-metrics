@@ -1,4 +1,4 @@
-# RAG Evaluation Metrics --- Easy English
+# RAG Retrieval and Evaluation Metrics
 
 ### 17 Metrics \| Concept • Purpose • Formula • Simple Example • Interpretation
 
