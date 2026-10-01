@@ -47,8 +47,8 @@ Different metrics evaluate different parts of this process.
 -   Precision measures **how many of the retrieved results are actually
     relevant**.
 -   It focuses on the **quality of the retrieved results**.
--   In simple words: \> **"Jo cheezen retrieve hui hain, un mein se
-    kitni relevant hain?"**
+-   In simple words: \> **"Of the things that were retrieved, how many
+    are relevant?"**
 
 ### Purpose
 
@@ -96,8 +96,8 @@ Therefore:
 
 In simple words:
 
-> **"Jo relevant information available thi, us mein se kitni retrieve
-> hui?"**
+> **"Of all the relevant information that exists, how much did we
+> retrieve?"**
 
 ### Purpose
 
@@ -145,7 +145,7 @@ Therefore:
 
 In simple words:
 
-> **"Kya top-k mein kam az kam ek useful result mila?"**
+> **"Did the top-k return at least one useful result?"**
 
 ### Purpose
 
